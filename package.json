@@ -1,9 +1,9 @@
 {
-  "name": "@scxdraw/curve",
+  "name": "@scxdraw/core",
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A collection of vector utility functions.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
